@@ -1,2 +1,2 @@
-# CRFusion
-Conditions and Requirements based Multi-Solution Infrared and Visible Image Fusion
+# ＲＣFusion
+Requirements and Conditions based Multi-Solution Infrared and Visible Image Fusion
